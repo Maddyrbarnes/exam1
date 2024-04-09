@@ -67,3 +67,9 @@
       .title:hover{
         color: skyblue;
       }
+      div.row div {
+        background-color: lightblue;
+        height: 100px;
+        text-align: center;
+        border: 1px solid black;
+    }
